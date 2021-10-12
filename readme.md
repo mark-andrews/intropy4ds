@@ -30,4 +30,12 @@ For the last topic below, prior experience with R and RStudio is necessary. Atte
 	- Parallel processing
 	- Integrating R and Python
 	 
+## Software
 
+The following button will launch a Jupyter lab session that can be used for this course.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mark-andrews/intropy4ds/binder)
+You can also use Python Jupyter notebook and pip package installers immediately using Google's [Colaboratory](https://colab.research.google.com/) 
+If you are new to Python, either of these approaches is *highly* recommended. You will be able to immediately starting learning Python without any installation or configuration of software.
+This entire course can be done using this approach.
+
+On the other hand, for those wishing to install on their own devices (Windows or Macs), instructions are available [here](software.md).
