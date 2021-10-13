@@ -16,19 +16,19 @@ For the last topic below, prior experience with R and RStudio is necessary. Atte
 
 ### Day 1: Introduction to Python (day 1 / 4h)
 
-	- Installing and setting up Python
-	- Data Structures
-	- Programming in Python
+- Installing and setting up Python
+- Data Structures
+- Programming in Python
 
 ### Day 2: Programming and data processing with Python (day 2 / 2h)
 
-	- Numerical programming with numpy
-	- Data processing with pandas
+- Numerical programming with numpy
+- Data processing with pandas
 	 
 ### Day 3: Parallel processing and integrating Python with R (day 3 / 4h)
 
-	- Parallel processing
-	- Integrating R and Python
+- Parallel processing
+- Integrating R and Python
 	 
 ## Software
 
@@ -39,3 +39,7 @@ If you are new to Python, either of these approaches is *highly* recommended. Yo
 This entire course can be done using this approach.
 
 On the other hand, for those wishing to install on their own devices (Windows or Macs), instructions are available [here](software.md).
+
+## Recordings
+
+Video recordings of the sessions are linked from [here](recordings.md). These are password protected videos. The password was distributed in class.
