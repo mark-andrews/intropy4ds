@@ -5,7 +5,7 @@
 
 # Day 2
 
-Session 1
+* [Session 1](https://vimeo.com/631857459)
 
 # Day 3
 
