@@ -9,7 +9,7 @@
 
 # Day 3
 
-* [Session 1]()
-* [Session 2]()
+* [Session 1](https://vimeo.com/632768468)
+* [Session 2](https://vimeo.com/632874631)
 
 
